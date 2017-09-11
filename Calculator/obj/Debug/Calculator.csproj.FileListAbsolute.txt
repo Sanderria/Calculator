@@ -1,0 +1,15 @@
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.g.cs
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.baml
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Niklas\Desktop\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
